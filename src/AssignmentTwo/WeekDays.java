@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class WeekDay {
+public class WeekDays {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         int day = 0;  // Variable to store day number
