@@ -11,8 +11,8 @@ public class DaysInMonth {
             System.out.print("Enter month number (1-12): ");
             month = scanner.nextInt();
 
-            if (month >= 1 && month <= 12) {  // Check if the input is within the valid range
-                validInput = true;  // Exit loop when valid input is provided
+            if (month >= 1 && month <= 12) {
+                validInput = true;
             } else {
                 System.out.println("Invalid month number! Please enter a number between 1 and 12.");
             }
