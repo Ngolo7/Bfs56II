@@ -1,3 +1,5 @@
+package AssignmentTwo;
+
 import java.util.Scanner;
 
 public class UppercaseLowercase {
