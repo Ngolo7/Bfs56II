@@ -1,4 +1,4 @@
-package AssignmentThree;
+package AssignmentThree.Src;
 
 import static AssignmentThree.Utilities.ArmstrongUtil.countDigits;
 import static AssignmentThree.Utilities.utils.InputNumber;

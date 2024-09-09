@@ -1,5 +1,4 @@
-package AssignmentThree;
-import java.util.Scanner;
+package AssignmentThree.Src;
 import static AssignmentThree.Utilities.utils.InputNumber;
 public class EvenNumber
 {

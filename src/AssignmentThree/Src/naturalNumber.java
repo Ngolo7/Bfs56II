@@ -1,6 +1,5 @@
-package AssignmentThree;
+package AssignmentThree.Src;
 
-import java.util.Scanner;
 import static AssignmentThree.Utilities.utils.InputNumber;
 
 public class naturalNumber {

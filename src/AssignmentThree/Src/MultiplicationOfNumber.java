@@ -1,4 +1,4 @@
-package AssignmentThree;
+package AssignmentThree.Src;
 
 import static AssignmentThree.Utilities.utils.InputNumber;
 public class MultiplicationOfNumber {

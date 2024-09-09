@@ -1,4 +1,4 @@
-package AssignmentThree;
+package AssignmentThree.Src;
 import java.util.Scanner;
 import static AssignmentThree.Utilities.ArmstrongUtil.isArmstrongNumber;
 
