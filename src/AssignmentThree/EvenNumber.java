@@ -9,7 +9,7 @@ public static void main (String[] args){
 }
 
 
-private static void EvenNumber(int num){
+public static void EvenNumber(int num){
     System.out.println("Even Number from 1 to" + num+ ":");
     for(int i = 1; i <= num; i++){
         if(i % 2 == 0){
