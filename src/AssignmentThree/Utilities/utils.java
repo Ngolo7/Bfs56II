@@ -10,4 +10,8 @@ public class utils {
         System.out.print("Enter the number: ");
         return sc.nextInt();  // Don't close the Scanner here, as it will be reused.
     }
+    public static long  Number() {
+        System.out.print("Enter the number: ");
+        return sc.nextLong();  // Don't close the Scanner here, as it will be reused.
+    }
 }
