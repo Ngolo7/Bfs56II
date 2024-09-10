@@ -1,8 +1,8 @@
-package AssignmentThree.Src;
+package AssignmentThree.Loops;
 
 import java.util.Scanner;
 
-import static AssignmentThree.Src.GCD.findGCD;
+import static AssignmentThree.Loops.GCD.findGCD;
 
 public class LCM {
 

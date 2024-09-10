@@ -1,4 +1,4 @@
-package AssignmentThree.Src;
+package AssignmentThree.Loops;
 
 public class PrintAlphabets {
 

@@ -1,4 +1,4 @@
-package AssignmentThree.Src;
+package AssignmentThree.Loops;
 
 import static AssignmentThree.Utilities.utils.InputNumber;
 

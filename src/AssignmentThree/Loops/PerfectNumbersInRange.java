@@ -1,7 +1,7 @@
-package AssignmentThree.Src;
+package AssignmentThree.Loops;
 
 import static AssignmentThree.Utilities.utils.InputNumber;
-import static AssignmentThree.Src.PerfectNumber.isPerfectNumber;
+import static AssignmentThree.Loops.PerfectNumber.isPerfectNumber;
 public class PerfectNumbersInRange {
 
     public static void main(String[] args) {

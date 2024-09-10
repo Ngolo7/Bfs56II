@@ -1,7 +1,7 @@
-package AssignmentThree.Src;
+package AssignmentThree.Loops;
 
 import static AssignmentThree.Utilities.utils.InputNumber;
-import static AssignmentThree.Src.EvenNumber.EvenNumber;
+import static AssignmentThree.Loops.EvenNumber.EvenNumber;
 
 public class SumEvenNumbers {
     public static void main(String[] args) {

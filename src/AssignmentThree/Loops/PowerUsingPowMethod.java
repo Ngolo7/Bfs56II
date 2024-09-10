@@ -1,8 +1,6 @@
-package AssignmentThree.Src;
+package AssignmentThree.Loops;
 
 import java.util.Scanner;
-
-import static AssignmentThree.Utilities.utils.InputNumber;
 
 public class PowerUsingPowMethod {
 

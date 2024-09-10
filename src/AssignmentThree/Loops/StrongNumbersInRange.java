@@ -1,7 +1,7 @@
-package AssignmentThree.Src;
+package AssignmentThree.Loops;
 
 import static AssignmentThree.Utilities.utils.InputNumber;
-import static AssignmentThree.Src.StrongNumber.isStrongNumber;
+import static AssignmentThree.Loops.StrongNumber.isStrongNumber;
 
 public class StrongNumbersInRange {
 
