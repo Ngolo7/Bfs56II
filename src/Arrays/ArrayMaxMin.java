@@ -8,4 +8,6 @@ public class ArrayMaxMin {
        FindMaxMin(array);
     }
 
+    public static class DuplicatesOfArrays {
+    }
 }
