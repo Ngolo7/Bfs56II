@@ -1,5 +1,4 @@
 package Arrays.Utilities;
-
 import java.util.Scanner;
 
 public class ArraysUtils {
@@ -21,6 +20,24 @@ public class ArraysUtils {
             array[i] = scanner.nextInt();
         }
 
-        return array; // return the filled array
+        return array;
+    }
+    // Method to find the maximum and minimum values of the array
+    public static int[] MaxMin(int[] array) {
+        int max = array[0];
+        int min = array[0];
+
+        for (int i = 1; i < array.length; i++) {
+            if (array[i] > max) {
+                max = array[i];
+            }
+            if (array[i] < min) {
+                min = array[i];
+            }
+        }
+
+        System.out.println("Maximum value of the array: " + max);
+        System.out.println("Minimum value of the array: " + min);
+        return new int[]{max, min};
     }
 }
