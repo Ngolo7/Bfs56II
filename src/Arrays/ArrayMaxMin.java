@@ -5,7 +5,7 @@ public class ArrayMaxMin {
         int[] array = inputArray();
 
         // Find max and min
-       MaxMin(array);
+       FindMaxMin(array);
     }
 
 }

@@ -23,7 +23,7 @@ public class ArraysUtils {
         return array;
     }
     // Method to find the maximum and minimum values of the array
-    public static int[] MaxMin(int[] array) {
+    public static int[] FindMaxMin(int[] array) {
         int max = array[0];
         int min = array[0];
 
@@ -39,5 +39,18 @@ public class ArraysUtils {
         System.out.println("Maximum value of the array: " + max);
         System.out.println("Minimum value of the array: " + min);
         return new int[]{max, min};
+    }
+    public static void reverseArray(int[] array) {
+        int start = 0;
+        int end = array.length - 1;
+
+        // Swap elements from start and end towards the middle
+        while (start < end) {
+            int temp = array[start];
+            array[start] = array[end];
+            array[end] = temp;
+            start++;
+            end--;
+        }
     }
 }
