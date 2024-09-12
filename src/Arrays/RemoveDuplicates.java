@@ -13,8 +13,6 @@ public class RemoveDuplicates {
         for (int i = 0; i < resultArray.length; i++) {
             System.out.print(resultArray[i] + " ");
         }
-
-
     }
 
     // Method to remove duplicates from the array without using ArrayList
