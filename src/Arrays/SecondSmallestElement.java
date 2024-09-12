@@ -1,6 +1,4 @@
 package Arrays;
-import Arrays.Utilities.ArraysUtils;
-
 import java.util.Arrays;
 import static Arrays.Utilities.ArraysUtils.*;
 
